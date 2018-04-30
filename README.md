@@ -13,6 +13,7 @@
 
 ### Security
 * https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/secure-net-microservices-web-applications/
+* https://github.com/auth0-samples/auth0-aspnetcore-webapi-samples/tree/master/Samples/multiple-issuer
 
 
 ### Architecture
