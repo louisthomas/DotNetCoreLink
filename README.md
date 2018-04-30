@@ -14,3 +14,6 @@
 ### Security
 * https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/secure-net-microservices-web-applications/
 
+
+### Architecture
+* https://github.com/dotnet-architecture/eShopOnContainers
