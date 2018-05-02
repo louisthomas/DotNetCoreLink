@@ -2,6 +2,8 @@
 
 ### Pivtaol .NET lib
 * https://steeltoe.io/docs/steeltoe-security/
+* https://www.pivotaltracker.com/n/projects/1483238
+* https://dotnet-cookbook.cfapps.io/
 
 ### API gateway
 * https://github.com/ThreeMammals/Ocelot
